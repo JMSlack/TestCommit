@@ -1,5 +1,5 @@
-Hello World
+**Hello World
 
-Jonathan Slack
+***Jonathan Slack
 
-This is a test of connecting to github and pushing commits.
+*This is a test of connecting to github and pushing commits.
